@@ -1,0 +1,11 @@
+# Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path, Ar, Bulb, Fe, Hg(Ar), Cu, Ne, Quartz, Quartz Percent, Cam Focus
+Stephen,h alpha cam focus,Red,hAlphaCamFocus,1,3,0,7,0,,C:\GSCS Scripting\Setup Files\1200 h alpha Cam Focus.cfg,0,0,0,1,0,0,0,0,-1000
+Stephen,h alpha cam focus,Red,hAlphaCamFocus,1,3,0,7,0,,C:\GSCS Scripting\Setup Files\1200 h alpha Cam Focus.cfg,0,0,0,1,0,0,0,0,1500
+Stephen,h alpha cam focus,Red,hAlphaCamFocus,1,3,0,7,0,,C:\GSCS Scripting\Setup Files\1200 h alpha Cam Focus.cfg,0,0,0,1,0,0,0,0,1200
+Stephen,h alpha cam focus,Red,hAlphaCamFocus,1,3,0,7,0,,C:\GSCS Scripting\Setup Files\1200 h alpha Cam Focus.cfg,0,0,0,1,0,0,0,0,600
+Stephen,h alpha cam focus,Red,hAlphaCamFocus,1,3,0,7,0,,C:\GSCS Scripting\Setup Files\1200 h alpha Cam Focus.cfg,0,0,0,1,0,0,0,0,0
+Stephen,h alpha cam focus,Red,hAlphaCamFocus,1,3,0,7,0,,C:\GSCS Scripting\Setup Files\1200 h alpha Cam Focus.cfg,0,0,0,1,0,0,0,0,-600
+Stephen,h alpha cam focus,Red,hAlphaCamFocus,1,3,0,7,0,,C:\GSCS Scripting\Setup Files\1200 h alpha Cam Focus.cfg,0,0,0,1,0,0,0,0,-1200
+Stephen,h alpha cam focus,Red,hAlphaCamFocus,1,3,0,7,0,,C:\GSCS Scripting\Setup Files\1200 h alpha Cam Focus.cfg,0,0,0,1,0,0,0,0,-1500
+Stephen,h alpha cam focus,Red,hAlphaCamFocus,1,3,0,7,0,,C:\GSCS Scripting\Setup Files\1200 h alpha Cam Focus.cfg,0,0,0,1,0,0,0,0,-1800
+Stephen,h alpha cam focus,Red,hAlphaCamFocus,1,3,0,7,0,,C:\GSCS Scripting\Setup Files\1200 h alpha Cam Focus.cfg,0,0,0,1,0,0,0,0,-2100

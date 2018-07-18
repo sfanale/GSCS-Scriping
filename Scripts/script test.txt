@@ -1,0 +1,2 @@
+# Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path, Ar, Bulb, Fe, Hg(Ar), Cu, Ne, Quartz ,
+Stephen,test,Red,scripting-test,5,1,1,14,0,,C:\GSCS Scripting\Setup Files\myconfig.cfg,0,0,0,0,0,0,0,

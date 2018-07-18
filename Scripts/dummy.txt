@@ -1,0 +1,1 @@
+# Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path, Ar, Bulb, Fe, Hg(Ar), Cu, Ne, Quartz, Quartz Percent, Cam Focus, Custom ROI Info, Target

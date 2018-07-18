@@ -1,0 +1,3 @@
+# Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path, Ar, Bulb, Fe, Hg(Ar), Cu, Ne, Quartz, Quartz Percent, Cam Focus, Custom ROI Info, Target
+# Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path, Ar, Bulb, Fe, Hg(Ar), Cu, Ne, Quartz, Quartz Percent, Cam Focus, Custom ROI Info, Target
+Cesar Briceno,Bias,Red,bias_1x2,0,51,1,21,0,,C:\GSCS Scripting\Setup Files\2100-650L.cfg,0,0,0,0,0,0,0,0,0,           Ô  ´   ,

@@ -1,0 +1,6 @@
+# Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path, Ar, Bulb, Fe, Hg(Ar), Cu, Ne, Quartz, Quartz Percent, Cam Focus, Custom ROI Info, Target
+# Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path, Ar, Bulb, Fe, Hg(Ar), Cu, Ne, Quartz, Quartz Percent, Cam Focus, Custom ROI Info, Target
+Stephen,test,Red,test,10,1,0,0,0, Notes,C:\GSCS Scripting\Scripts\Neutral.cfg,0,0,0,0,0,0,0,0,0,,0
+Stephen,test,Red,test,10,1,1,1,0, Notes,C:\GSCS Scripting\Scripts\Neutral.cfg,0,0,0,0,0,0,0,0,0,,0
+Stephen,test,Red,test,10,1,1,1,0, Notes,C:\GSCS Scripting\Scripts\Neutral.cfg,0,0,0,0,0,0,0,0,0,,1
+Stephen,test,Red,test,10,1,1,1,0, Notes,C:\GSCS Scripting\Scripts\Neutral.cfg,0,0,0,0,1,0,0,0,0,,1

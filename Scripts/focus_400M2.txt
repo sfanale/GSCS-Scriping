@@ -1,0 +1,13 @@
+# Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path, Ar, Bulb, Fe, Hg(Ar), Cu, Ne, Quartz, Quartz Percent, Cam Focus, Custom ROI Info, Target
+# Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path, Ar, Bulb, Fe, Hg(Ar), Cu, Ne, Quartz, Quartz Percent, Cam Focus, Custom ROI Info, Target
+Cesar Briceno,focus sequence,Red,foc_400M2_GG455,1,1,1,3,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,0,0,0,-2000,,
+Cesar Briceno,focus sequence,Red,foc_400M2_GG455,1,1,1,3,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,0,0,0,-2000,,
+Cesar Briceno,focus sequence,Red,foc_400M2_GG455,1,1,1,3,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,0,0,0,-1800,,
+Cesar Briceno,focus sequence,Red,foc_400M2_GG455,1,1,1,3,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,0,0,0,-1600,,
+Cesar Briceno,focus sequence,Red,foc_400M2_GG455,1,1,1,3,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,0,0,0,-1400,,
+Cesar Briceno,focus sequence,Red,foc_400M2_GG455,1,1,1,3,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,0,0,0,-1200,,
+Cesar Briceno,focus sequence,Red,foc_400M2_GG455,1,1,1,3,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,0,0,0,-1000,,
+Cesar Briceno,focus sequence,Red,foc_400M2_GG455,1,1,1,3,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,0,0,0,-800,,
+Cesar Briceno,focus sequence,Red,foc_400M2_GG455,1,1,1,3,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,0,0,0,-600,,
+Cesar Briceno,focus sequence,Red,foc_400M2_GG455,1,1,1,3,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,0,0,0,-400,,
+Cesar Briceno,focus sequence,Red,foc_400M2_GG455,1,1,1,3,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,0,0,0,-200,,

@@ -1,0 +1,6 @@
+# Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path, Ar, Bulb, Fe, Hg(Ar), Cu, Ne, Quartz, Quartz Percent, Cam Focus, Custom ROI Info, Target
+# Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path, Ar, Bulb, Fe, Hg(Ar), Cu, Ne, Quartz, Quartz Percent, Cam Focus, Custom ROI Info, Target
+Stephen,focus test,Red,400focus,5,3,0,9,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,1,0,0,-1400,,
+Stephen,focus test,Red,400focus,5,3,0,9,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,1,0,0,-1400,,
+Stephen,focus test,Red,400focus,5,3,0,9,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,1,0,0,-1400,,
+Stephen,focus test,Red,400focus,5,3,0,9,0,,C:\GSCS Scripting\Setup Files\400M2_GG455.cfg,0,0,0,1,0,1,0,0,-1400,,
